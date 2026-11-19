@@ -1,5 +1,3 @@
--- Table to track my job applications (PostgreSQL)
-
 -- CREATE TABLE: define the columns and their types
 CREATE TABLE job_applied (
     job_id INT,
